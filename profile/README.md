@@ -25,6 +25,3 @@
 ### 联系
 
 邮箱: zhoutaoo@foxmail.com
-进群交流：
-
-![进群交流](https://foruda.gitee.com/images/1671973004293474464/5682ccd4_8942.png)
